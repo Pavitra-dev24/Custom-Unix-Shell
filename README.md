@@ -28,8 +28,6 @@ A lightweight Unix-style shell written in C that demonstrates core OS concepts: 
 
 ---
 
----
-
 ## Implementation Details
 
 The shell is built using low-level POSIX system calls and follows a modular design to handle command execution, job management, and filesystem operations.
